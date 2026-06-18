@@ -1,0 +1,1 @@
+{"order_id":"string","product_id":"string","customer_id":"string","order_ts":"timestamp","quantity":"integer","unit_price":"decimal(12,2)","updated_at":"timestamp"}
